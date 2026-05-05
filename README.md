@@ -21,28 +21,30 @@ To maintain the integrity of the picoCTF competition and follow Carnegie Mellon 
 
 The challenges are organized by the official picoCTF categories. Each folder contains a conceptual breakdown of the problems I have encountered.
 
-| Category | Description |
-| :--- | :--- |
-| [**General Skills**](./General-Skills) | Linux command line, encodings (Base64, Hex), and basic CTF hygiene. |
-| [**Web Exploitation**](./Web-Exploitation) | Analyzing HTTP headers, Cookies, SQLi, XSS, and Robot files. |
-| [**Cryptography**](./Cryptography) | Modern and Classic ciphers, RSA attacks, and hashing algorithms. |
-| [**Forensics**](./Forensics) | Network analysis (pcap), steganography, and file structure analysis. |
+| Category                                         | Description                                                              |
+| :----------------------------------------------- | :----------------------------------------------------------------------- |
+| [**General Skills**](./General-Skills)           | Linux command line, encodings (Base64, Hex), and basic CTF hygiene.      |
+| [**Web Exploitation**](./Web-Exploitation)       | Analyzing HTTP headers, Cookies, SQLi, XSS, and Robot files.             |
+| [**Cryptography**](./Cryptography)               | Modern and Classic ciphers, RSA attacks, and hashing algorithms.         |
+| [**Forensics**](./Forensics)                     | Network analysis (pcap), steganography, and file structure analysis.     |
 | [**Reverse Engineering**](./Reverse-Engineering) | Static and dynamic analysis of binaries, Assembly, and Ghidra workflows. |
-| [**Binary Exploitation**](./Binary-Exploitation) | Memory corruption, stack smashing, and pwntools implementation. |
+| [**Binary Exploitation**](./Binary-Exploitation) | Memory corruption, stack smashing, and pwntools implementation.          |
 
 ---
 
 ## 🛠 My Toolkit
 
 Through my journey, these have become my most-used tools. My guidelines often refer to them:
-*   **Analysis:** `CyberChef`, `Strings`, `Grep`, `ExifTool`
-*   **Web:** `Burp Suite`, `Curl`, `EditThisCookie`
+
+- **Analysis:** `CyberChef`, `Strings`, `Grep`, `ExifTool`
+- **Web:** `Burp Suite`, `Curl`, `EditThisCookie`
 
 ---
 
 ## 📖 How to Use These Guidelines
 
 If you are using this repo to help your own learning:
+
 1.  **The 10-Minutes Rule:** Try the challenge on your own for at least 10 minutes before looking for a hint.
 2.  **Identify the Gap:** Look at the **"Core Concept"** section in my notes. Do you understand the theory? If not, research the theory first.
 3.  **Follow the Logic:** Read the **"Methodology"** section to see how I approached the problem. Try to replicate the logic, not just the commands.
@@ -52,9 +54,9 @@ If you are using this repo to help your own learning:
 
 ## ⚖️ Disclaimer & Compliance
 
-*   **Terms of Service:** This project is intended for personal educational use and is fully compliant with the picoCTF ToS. I do not claim ownership of any picoCTF content.
-*   **Non-Commercial:** This repository is, and will always be, free and non-commercial.
-*   **Copyright:** All challenge descriptions and files are the property of **Carnegie Mellon University**.
+- **Terms of Service:** This project is intended for personal educational use and is fully compliant with the picoCTF ToS. I do not claim ownership of any picoCTF content.
+- **Non-Commercial:** This repository is, and will always be, free and non-commercial.
+- **Copyright:** All challenge descriptions and files are the property of **Carnegie Mellon University**.
 
 ---
 
@@ -65,6 +67,6 @@ Cybersecurity is a collaborative field. If you find a more efficient way to appr
 I am actively learning and documenting my progress in the cybersecurity space. Feel free to reach out to discuss techniques, collaborate on challenges, or check out my professional journey:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ptpar)
-[![picoCTF Profile](https://img.shields.io/badge/picoCTF-Profile-red?style=for-the-badge)](https://picoctf.org/users/gamie)
+[![picoCTF Profile](https://img.shields.io/badge/picoCTF-Profile-red?style=for-the-badge)](https://play.picoctf.org/users/gamie)
 
 **Happy Hacking!** 💻
