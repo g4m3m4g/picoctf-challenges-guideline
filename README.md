@@ -62,4 +62,9 @@ If you are using this repo to help your own learning:
 
 Cybersecurity is a collaborative field. If you find a more efficient way to approach a challenge or notice a technical error in my notes, feel free to open a **Pull Request** or an **Issue**. Let's learn together!
 
+I am actively learning and documenting my progress in the cybersecurity space. Feel free to reach out to discuss techniques, collaborate on challenges, or check out my professional journey:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ptpar)
+[![picoCTF Profile](https://img.shields.io/badge/picoCTF-Profile-red?style=for-the-badge)](https://picoctf.org/users/gamie)
+
 **Happy Hacking!** 💻
