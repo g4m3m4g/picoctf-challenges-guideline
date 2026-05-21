@@ -1,6 +1,8 @@
 # 🚩 My picoCTF Journey: Personal Methodology & Guidelines
 
-Welcome! This repository is a collection of my personal notes, thought processes, and technical methodologies developed while navigating the [picoCTF](https://picoctf.org/) challenges.
+# ( PicoCTF now renamed to CyLab Security Academy)
+
+Welcome! This repository is a collection of my personal notes, thought processes, and technical methodologies developed while navigating the [CyLab Security Academy](https://cylabacademy.org/) challenges.
 
 > **Note:** This is an educational resource documenting my personal growth in Cybersecurity. It is **not** a collection of answers, but a map of how to think.
 
@@ -8,7 +10,7 @@ Welcome! This repository is a collection of my personal notes, thought processes
 
 ## 🧠 Philosophy & Ethics
 
-To maintain the integrity of the picoCTF competition and follow Carnegie Mellon University's (CMU) Terms of Service, this repository adheres to the following rules:
+To maintain the integrity of the CyLab Security Academy competition and follow Carnegie Mellon University's (CMU) Terms of Service, this repository adheres to the following rules:
 
 1.  **No Flags Provided:** I will **never** post a direct flag. The goal is to learn the "How," not just the "Result."
 2.  **Focus on Methodology:** I document the logical steps, the tools used, and the underlying security concepts (e.g., RSA padding, SQL injection patterns, or Buffer Overflows).
@@ -19,7 +21,7 @@ To maintain the integrity of the picoCTF competition and follow Carnegie Mellon 
 
 ## 📂 Repository Structure
 
-The challenges are organized by the official picoCTF categories. Each folder contains a conceptual breakdown of the problems I have encountered.
+The challenges are organized by the official CyLab Security Academy categories. Each folder contains a conceptual breakdown of the problems I have encountered.
 
 | Category                                         | Description                                                              |
 | :----------------------------------------------- | :----------------------------------------------------------------------- |
@@ -54,7 +56,7 @@ If you are using this repo to help your own learning:
 
 ## ⚖️ Disclaimer & Compliance
 
-- **Terms of Service:** This project is intended for personal educational use and is fully compliant with the picoCTF ToS. I do not claim ownership of any picoCTF content.
+- **Terms of Service:** This project is intended for personal educational use and is fully compliant with the CyLab Security Academy ToS. I do not claim ownership of any CyLab Security Academy content.
 - **Non-Commercial:** This repository is, and will always be, free and non-commercial.
 - **Copyright:** All challenge descriptions and files are the property of **Carnegie Mellon University**.
 
@@ -67,6 +69,6 @@ Cybersecurity is a collaborative field. If you find a more efficient way to appr
 I am actively learning and documenting my progress in the cybersecurity space. Feel free to reach out to discuss techniques, collaborate on challenges, or check out my professional journey:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ptpar)
-[![picoCTF Profile](https://img.shields.io/badge/picoCTF-Profile-red?style=for-the-badge)](https://play.picoctf.org/users/gamie)
+[![picoCTF Profile](https://img.shields.io/badge/picoCTF-Profile-red?style=for-the-badge)](https://learn.cylabacademy.org/users/gamie)
 
 **Happy Hacking!** 💻
